@@ -1,0 +1,658 @@
+{
+  "schema_version": "1.0",
+  "repository": "t1604/campaigner-architecture-corpus",
+  "purpose": "Private controlled Base44 read/reference mirror",
+  "canonical_source": "Google Drive",
+  "authority_boundary": "Repository presence grants no build, deployment, runtime, release, merge, or canonical-source mutation authority.",
+  "active_source_document_count": 81,
+  "documents": [
+    {
+      "repository_path": "01-PACKAGE-HOME/CAMPAINER-PRODUCT-TRUTH-AND-CORE-ARCHITECTURE-PACKAGE-001.md",
+      "source_title": "CAMPAINER-PRODUCT-TRUTH-AND-CORE-ARCHITECTURE-PACKAGE-001 — חבילת האמת והליבות",
+      "source_drive_id": "1vmronvhIbM1PbDWKp2EsNpqWSfEyE9ALDPWPLokTZYI",
+      "source_modified_at": "2026-08-23T09:06:34.625Z",
+      "category": "package-home",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/00-CONSTITUTION.md",
+      "source_title": "CAMPAINER-CONSTITUTION-001 — חוקת קמפיינר",
+      "source_drive_id": "1z5x9sfqWySRpAhyg-erupFwNUB8ghimQLLURB_8GvJQ",
+      "source_modified_at": "2026-08-16T13:31:13.399Z",
+      "category": "core",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/01-PRODUCT-TRUTH-CORE.md",
+      "source_title": "CAMPAINER-PRODUCT-TRUTH-CORE-001 — v1.2 — ליבת האמת של קמפיינר",
+      "source_drive_id": "1EK-NTEjpDTM8x6NG_C-6MmcBhdyzmm-Qnub5cSEM5yI",
+      "source_modified_at": "2026-08-18T15:24:53.901Z",
+      "category": "core",
+      "status": "current-v1.2"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/02-ADVISOR-CORE.md",
+      "source_title": "CAMPAINER-ADVISOR-CORE-001 — v1.1 — ליבת היועץ של קמפיינר",
+      "source_drive_id": "1KAwg8fHnINs9TgRCqFbBtml6YNP2Bj9kchTx5MnWpLs",
+      "source_modified_at": "2026-08-23T09:06:39.777Z",
+      "category": "core",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/03-KNOWLEDGE-EVIDENCE-CORE.md",
+      "source_title": "01 — KNOWLEDGE-EVIDENCE-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1w2aDTqHDkxH-YOBlBuQUHHW0yVHTm46UuiChFznTaSg",
+      "source_modified_at": "2026-08-18T15:35:36.119Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/04-COMPLETE-USER-CONTEXT-CORE.md",
+      "source_title": "02 — COMPLETE-USER-CONTEXT-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1LYKSj2RKrfOVEW7DwGwE_WuV_f5MzwJ2xhaHMqJCybg",
+      "source_modified_at": "2026-08-18T15:35:51.040Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/05-DIRECTOR-CORE.md",
+      "source_title": "03 — DIRECTOR-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1ZweOD8cWSJqI0_Pg-sOoWvA1fA-OUuZeomxrr_xsP20",
+      "source_modified_at": "2026-08-18T15:36:04.653Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/06-EXECUTION-ORCHESTRATION-CORE.md",
+      "source_title": "20 — EXECUTION-ORCHESTRATION-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "19UA98mXcNZdJ_lU1QbWoJTvhNZoilqVRYkrqU56pxc4",
+      "source_modified_at": "2026-08-18T19:00:40.183Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/07-GOLDEN-LEAD-CORE.md",
+      "source_title": "04 — GOLDEN-LEAD-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1CRZ710LHyLp9BBlXx95MdNKeHLaW_gZrnx_tYT44DRM",
+      "source_modified_at": "2026-08-18T15:36:21.932Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/08-METRICS-MEASUREMENT-CORE.md",
+      "source_title": "05 — METRICS-MEASUREMENT-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1jJMmZJbRwCM7usOf_zrrd-gqT6L6aka2TuE220tPNm0",
+      "source_modified_at": "2026-08-18T15:36:38.008Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/09-LEARNING-EVOLUTION-CORE.md",
+      "source_title": "06 — LEARNING-EVOLUTION-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1kvqsgC36H-YcaK8WSjRR7M8OXqOGRmV6KyckaYBWS-Q",
+      "source_modified_at": "2026-08-18T15:36:53.153Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/10-BRAND-BRAND-ASSETS-CORE.md",
+      "source_title": "09 — BRAND-BRAND-ASSETS-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1bS2hgYrTj0nSasx6gQYoGkmIuv1JGy7VqNw1DTweLhw",
+      "source_modified_at": "2026-08-18T15:37:39.323Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/11-CREATIVE-CORE.md",
+      "source_title": "10 — CREATIVE-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1wHBWMsJPlBlXlHudkqG1ptgcwgp7rh_sdfJAKJ6HzN8",
+      "source_modified_at": "2026-08-18T15:37:53.975Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/12-MEDIA-BUDGET-CORE.md",
+      "source_title": "15 — MEDIA-BUDGET-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "12ae1Ev0RcDNG2sPmAssyYsWhXOeXy0LER591BKeqdHw",
+      "source_modified_at": "2026-08-18T15:38:07.896Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/13-META-CORE.md",
+      "source_title": "19 — META-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1NL9eDfvh3Va0xJL0FYDrPESsDbNjkgTejc76ZQXb9kw",
+      "source_modified_at": "2026-08-18T19:00:31.583Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/14-EXPERIENCE-INTERFACE-CORE.md",
+      "source_title": "11 — EXPERIENCE-INTERFACE-CORE-RECONCILIATION-001 — v0.1",
+      "source_drive_id": "1lGjOB641Gdv3ao4cSKUoV0-tr5nl4YXS2g-qeNv6WWg",
+      "source_modified_at": "2026-08-23T09:06:41.246Z",
+      "category": "core",
+      "status": "current"
+    },
+    {
+      "repository_path": "02-CORE-ARCHITECTURE/15-FINAL-CORE-ARCHITECTURE.md",
+      "source_title": "CAMPAINER-FINAL-CORE-ARCHITECTURE-001 — v1.0 — ארכיטקטורת הליבות הסופית",
+      "source_drive_id": "1uE7OGLVhvKSFHF2BRr5KNBvAds2_AoN4v_PQtxGOnEY",
+      "source_modified_at": "2026-08-23T09:06:33.140Z",
+      "category": "core",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "03-FLOWS/01-CANONICAL-PRODUCT-FLOW.md",
+      "source_title": "CAMPAINER-CANONICAL-PRODUCT-FLOW-001 — v1.0 — ה־Flow הקנוני של Campainer",
+      "source_drive_id": "1Mcw0IKAYsOHuSSlHagzbQjBmzbf0NTYWxv-HIpaMOPY",
+      "source_modified_at": "2026-08-23T09:06:36.197Z",
+      "category": "flow",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "03-FLOWS/02-ONE-TIME-CAMPAIGN-FLOW.md",
+      "source_title": "CAMPAINER-ONE-TIME-CAMPAIGN-FLOW-001 — v1.0 — המסלול החד־פעמי",
+      "source_drive_id": "1ZipAvyqvkVE_0nZ_RLOAAvPuV5nEiVHDxkTzUA1K68Q",
+      "source_modified_at": "2026-08-18T17:03:24.577Z",
+      "category": "flow",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "03-FLOWS/03-FLOW-CORE-APPLICABILITY-MATRIX.md",
+      "source_title": "CAMPAINER-FLOW-CORE-APPLICABILITY-MATRIX-001 — v1.0 — מפת תחולת הליבות על ה־Flow",
+      "source_drive_id": "1cta7iyqAeWhBIxM5nnPkSSN6kgOKnwVKF3woRLzQTs8",
+      "source_modified_at": "2026-08-23T09:06:38.222Z",
+      "category": "flow",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/00-MASTER.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-MASTER-001 — v1.0 — Stage Truth Master",
+      "source_drive_id": "10yjML4WKR1OOVLdfpNgoVyODPbEEzhef9tP13rwOkSI",
+      "source_modified_at": "2026-08-18T17:32:12.919Z",
+      "category": "stage-truth",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/01-INDEX.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-INDEX-001 — v1.0 — Stage Truth Index",
+      "source_drive_id": "14Apb8p4K2LX6Q1T2gfoAgDXAIjRF6mZaELXpv7MvfxQ",
+      "source_modified_at": "2026-08-23T09:06:43.398Z",
+      "category": "stage-truth",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A1.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A1-001 — v1.0 — Short Diagnosis",
+      "source_drive_id": "1zAmGgMpUZhLNypVLClcGSozBUb506VffJ3orErbFo6I",
+      "source_modified_at": "2026-08-18T17:34:01.540Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A10.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A10-001 — v1.0 — Managed Marketing + Lead / Business Realization",
+      "source_drive_id": "1FWKS_g22brgkKkZ6ALYLWm1UFCt4F_moCPboUhXjnhw",
+      "source_modified_at": "2026-08-18T17:38:15.246Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A11.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A11-001 — v1.0 — Measurement → Learning → Next Decision",
+      "source_drive_id": "1Etup-dpBirMH8tE_m6DNAMZtQqpHSfsPIA9_7UdM5kQ",
+      "source_modified_at": "2026-08-18T17:38:34.635Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A2.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A2-001 — v1.0 — Strategy Initial + Route Recommendation",
+      "source_drive_id": "1V5oCNHN8uUnMOgCBNnZc4O6680-1_h09dhevZWc-2No",
+      "source_modified_at": "2026-08-18T17:36:08.786Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A3.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A3-001 — v1.0 — Choice / Service Scope / Payment",
+      "source_drive_id": "14a_ik4Qegx6YWQIhkVxCZzY1k0A65fR63-_HngIwnPs",
+      "source_modified_at": "2026-08-18T17:36:24.241Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A4.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A4-001 — v1.0 — Progressive Deep Diagnosis + Baseline",
+      "source_drive_id": "1nMgkeO5xWoVRJipB0vsdlX9VHgCazMEPT40rJeB2d1k",
+      "source_modified_at": "2026-08-18T17:36:39.654Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A5.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A5-001 — v1.0 — Full Strategy",
+      "source_drive_id": "16eNsUN9NtT1AmxjSxs2zEILTk_oX8VKVFDc9HNaKZGA",
+      "source_modified_at": "2026-08-18T17:36:57.692Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A6.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A6-001 — v1.0 — Studio",
+      "source_drive_id": "1gnGc0fCnx_gWnNtY3heFb71uR7l9WYRoR-GxBNzBiOY",
+      "source_modified_at": "2026-08-18T17:37:12.581Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A7.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A7-001 — v1.0 — Campaign / Execution Readiness",
+      "source_drive_id": "1ygPCXlCUsr1B_KUuboNjz78jKSOW9IejERj6qRcjJ3M",
+      "source_modified_at": "2026-08-18T17:37:29.787Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A8.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A8-001 — v1.0 — Campaign Review + User Approval",
+      "source_drive_id": "1soiG8_0vwaefwycNJ-2kBQWrAT1Irjhbc5No0-oCKak",
+      "source_modified_at": "2026-08-18T17:37:43.876Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/A9.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-A9-001 — v1.0 — Authorization + Fresh Preflight + Launch + Verified Readback",
+      "source_drive_id": "13nzIlIdx5W_uuzuQqudyZV4VTsOLP81sh3Wh7DOW1JY",
+      "source_modified_at": "2026-08-18T17:38:01.157Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B1.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B1-001 — v1.0 — One-Time Campaign Intake",
+      "source_drive_id": "1Tr13q3pFwYAdw3C1FF2DhaKJ3itp4fPJL0DK77IFiCw",
+      "source_modified_at": "2026-08-18T17:40:31.159Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B2.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B2-001 — v1.0 — One-Time Brief + Advisor Recommendation",
+      "source_drive_id": "1i-YW-lNSHflANNgHqPZcPillJfbErdFVRz7w-c07tHQ",
+      "source_modified_at": "2026-08-18T17:40:44.546Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B3.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B3-001 — v1.0 — One-Time Scope + Price + Payment",
+      "source_drive_id": "1xxE0WXXUeQESDzSRWj70iojh65a12_yo8Kp0SIJHh3M",
+      "source_modified_at": "2026-08-18T17:40:57.865Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B4.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B4-001 — v1.0 — One-Time Studio",
+      "source_drive_id": "1NB2n-RT2nQwkH3rNb9Y662-HbkwCmuBpcFwf3tw6AXE",
+      "source_modified_at": "2026-08-18T17:41:18.207Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B5.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B5-001 — v1.0 — One-Time Campaign Review + User Approval",
+      "source_drive_id": "1qfdSkrQ4E5ha3SIkOz5yK7lN9CpmARDVV4xExrMRF7Q",
+      "source_modified_at": "2026-08-18T17:41:33.121Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B6.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B6-001 — v1.0 — One-Time Authorization + Preflight + Launch + Readback",
+      "source_drive_id": "10Cg5nF79f7GJstkUbfOq8SlVvqGzXXexVj-z6yPHyIs",
+      "source_modified_at": "2026-08-18T17:41:46.127Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B7.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B7-001 — v1.0 — One-Time Managed Run",
+      "source_drive_id": "1edf6W98P53KbLmpbH8_zDM_VNPSyHv9D54-XWh0YZKM",
+      "source_modified_at": "2026-08-18T17:42:04.208Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B8.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B8-001 — v1.0 — End Condition + Closure",
+      "source_drive_id": "1hvq5Gf-UY59pBI3y7QO3KsOQYe64L2C5bU6kbKCHics",
+      "source_modified_at": "2026-08-18T17:42:17.583Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/B9.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-B9-001 — v1.0 — Measurement + Summary + Learning Return",
+      "source_drive_id": "1nxRoxFz8w78qVlcKnAT363IYE2Jls_aET-7JSZin7D4",
+      "source_modified_at": "2026-08-18T17:42:31.813Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "04-STAGE-TRUTH/ENTRY.md",
+      "source_title": "CAMPAINER-STAGE-TRUTH-ENTRY-001 — v1.0 — Branch Selection",
+      "source_drive_id": "1YZNfZ0AWgPMBP1o5B1B4fQAqYjD5Co8WowxqXqH7akM",
+      "source_modified_at": "2026-08-18T17:33:35.687Z",
+      "category": "stage-truth",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/00-MASTER.md",
+      "source_title": "CAMPAINER-DECISION-AND-HANDOFF-CONTRACTS-MASTER-001 — v1.0",
+      "source_drive_id": "18xPbrFLWt64vGeVkqY8mJ-smYXntKFaXG1Kh7cof-P8",
+      "source_modified_at": "2026-08-18T17:48:31.142Z",
+      "category": "contract",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "05-CONTRACTS/01-INDEX.md",
+      "source_title": "CAMPAINER-DECISION-AND-HANDOFF-CONTRACTS-INDEX-001 — v1.3",
+      "source_drive_id": "1-l_xHFta0SF54uy_ycrxYwP05NUW2FhPiVNvEPMsZH8",
+      "source_modified_at": "2026-08-23T09:06:44.520Z",
+      "category": "contract",
+      "status": "current-v1.3"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C01.md",
+      "source_title": "CAMPAINER-CONTRACT-C01-BRANCH-CHOICE-HANDOFF-001 — v1.0",
+      "source_drive_id": "1MZYnfCH2JrUv4uDb5EWQDxLqItDEvYX1Qc9_VNkmvqw",
+      "source_modified_at": "2026-08-18T17:50:00.498Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C02.md",
+      "source_title": "CAMPAINER-CONTRACT-C02-INITIAL-UNDERSTANDING-TO-STRATEGY-INITIAL-001 — v1.0",
+      "source_drive_id": "1U8lSemhSp8sfrXVWfgeZFGKlySpjEGuT5xeedj4BkX4",
+      "source_modified_at": "2026-08-18T17:50:10.861Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C03.md",
+      "source_title": "CAMPAINER-CONTRACT-C03-RECOMMENDATION-TO-COMMERCIAL-SCOPE-001 — v1.0",
+      "source_drive_id": "1n1-2fUGqY1UYPsoGqbSKqVY3RDNnGJpAv2awfGjG9tA",
+      "source_modified_at": "2026-08-18T17:50:26.399Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C04.md",
+      "source_title": "CAMPAINER-CONTRACT-C04-PAYMENT-TO-PROFESSIONAL-WORK-ENTITLEMENT-001 — v1.1",
+      "source_drive_id": "11Pn3vGTscGl7Uhe5Dl1OyUw2zaqjVj3y3qSkePPSO6E",
+      "source_modified_at": "2026-08-18T21:26:12.065Z",
+      "category": "contract",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C05.md",
+      "source_title": "CAMPAINER-CONTRACT-C05-DEEP-UNDERSTANDING-TO-FULL-STRATEGY-001 — v1.0",
+      "source_drive_id": "1YITkwNl4w0bz6J5aEB_yM2altnwwZgcMjmUAd9HbD34",
+      "source_modified_at": "2026-08-18T17:51:39.851Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C06.md",
+      "source_title": "CAMPAINER-CONTRACT-C06-STRATEGIC-INTENT-TO-STUDIO-001 — v1.0",
+      "source_drive_id": "1psqnu2-VKzF7K6xfCSDbQZDjHvKLvZ9YrpIx6PqutqM",
+      "source_modified_at": "2026-08-18T17:51:51.546Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C07.md",
+      "source_title": "CAMPAINER-CONTRACT-C07-ONE-TIME-BRIEF-TO-STUDIO-001 — v1.0",
+      "source_drive_id": "1wb7EzleaTf2NphalGCT2UfMmx3RDm6ja-FypMlOqoms",
+      "source_modified_at": "2026-08-18T17:52:06.121Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C08.md",
+      "source_title": "CAMPAINER-CONTRACT-C08-CAMPAIGN-PACKAGE-TO-USER-REVIEW-001 — v1.0",
+      "source_drive_id": "101peYMgvq0COiqqWo2P-Ct6ljDFsfPS5VusbeX86erk",
+      "source_modified_at": "2026-08-18T17:52:20.393Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C09.md",
+      "source_title": "CAMPAINER-CONTRACT-C09-APPROVAL-TO-AUTHORIZATION-GATE-001 — v1.0",
+      "source_drive_id": "1pvSs3YN8ZSMCyKMOLQRFLLoPOPqIVb8o1VuSReuWx-E",
+      "source_modified_at": "2026-08-18T17:53:19.181Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C10.md",
+      "source_title": "CAMPAINER-CONTRACT-C10-AUTHORIZED-INTENT-TO-EXECUTION-001 — v1.0",
+      "source_drive_id": "1JbT5UaIjQ_yN-sVCr5K4blR2tmjJeV67oo5CHT1THAk",
+      "source_modified_at": "2026-08-18T17:53:32.861Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C11.md",
+      "source_title": "CAMPAINER-CONTRACT-C11-EXECUTION-TO-VERIFIED-STATE-001 — v1.0",
+      "source_drive_id": "1KGTODJfT4eRmlbm9LJAiZbRFfTvFKURM0hblS2joSS8",
+      "source_modified_at": "2026-08-18T17:53:46.318Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C12.md",
+      "source_title": "CAMPAINER-CONTRACT-C12-MANAGED-DECISION-TO-AUTHORIZED-CHANGE-001 — v1.0",
+      "source_drive_id": "1axyyumlEJas8xdnCmEbnWzgi0oBijUNrChyejJQgJEQ",
+      "source_modified_at": "2026-08-18T17:54:01.526Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C13.md",
+      "source_title": "CAMPAINER-CONTRACT-C13-MANAGED-EVIDENCE-TO-MEASUREMENT-LEARNING-001 — v1.0",
+      "source_drive_id": "1EUZb6mUwVx0pPM_EccQrmPwAT1DVx5sFtHCYgMM15V0",
+      "source_modified_at": "2026-08-18T17:55:00.843Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C14.md",
+      "source_title": "CAMPAINER-CONTRACT-C14-ONE-TIME-END-CONDITION-TO-CLOSURE-001 — v1.2",
+      "source_drive_id": "1x0zkm345_vZ-bFegnrQGOHb5f83m_J01g_aZY9kT55Y",
+      "source_modified_at": "2026-08-19T05:25:51.353Z",
+      "category": "contract",
+      "status": "current-v1.2"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C15.md",
+      "source_title": "CAMPAINER-CONTRACT-C15-MEASUREMENT-LEARNING-TO-NEXT-DECISION-REOPEN-001 — v1.0",
+      "source_drive_id": "1Qp8q5gKNZJZM-MDgzU6JrdSHNmIHNuB-B-89DtNvWAs",
+      "source_modified_at": "2026-08-18T17:55:28.011Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "05-CONTRACTS/C16.md",
+      "source_title": "CAMPAINER-CONTRACT-C16-SEMANTIC-RETURN-CROSS-CUTTING-001 — v1.0",
+      "source_drive_id": "1aS6SOuRs6vbj81FbmuhLLGPZKH5xg2q0CoQvmFWqhJw",
+      "source_modified_at": "2026-08-18T17:55:40.814Z",
+      "category": "contract",
+      "status": "current"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/00-CURRENT-ARCHITECTURE-ALIGNMENT.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGES-CURRENT-ARCHITECTURE-ALIGNMENT-001",
+      "source_drive_id": "1OcVgX5dTgtAn-TGJPJnXSol1ed-9eC6RCJIBKbSwopg",
+      "source_modified_at": "2026-08-23T11:41:12.976Z",
+      "category": "build",
+      "status": "current"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/01-CURRENT-INDEX-v2.0.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGES-INDEX-001 — v2.0 — CURRENT ARCHITECTURE ALIGNED",
+      "source_drive_id": "1nFjhNZQoOBaRmESYAqptsIWgRcquWw3UQ7EQtFbkQXI",
+      "source_modified_at": "2026-08-23T11:40:41.688Z",
+      "category": "build",
+      "status": "current-v2.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/02-MASTER.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGES-MASTER-001 — v1.0",
+      "source_drive_id": "1wn1I5_zPg4MRC88ePLIehThIgGJMwA42BfwRQFzRjoQ",
+      "source_modified_at": "2026-08-18T18:05:17.605Z",
+      "category": "build",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-00.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-00-001 — v1.1 — Shared Semantic Runtime & Governance Foundation",
+      "source_drive_id": "1lbGfFtP0w3_xT7xxYN_V2D6MuaYtD4_bq8YxKt_wajY",
+      "source_modified_at": "2026-08-18T19:20:46.611Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-01.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-01-001 — v1.1 — Knowledge + Context Projection + Director/Advisor Runtime",
+      "source_drive_id": "1v_3fkC8-w-elhWE9f-mh8FksTvNT-Eddd_e1Kpwg2eU",
+      "source_modified_at": "2026-08-18T19:21:53.747Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-02.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-02-001 — v1.0 — Entry & Branch Routing",
+      "source_drive_id": "11K_nXcUHj-aD5JY82URtfLaCExNTvsOAwOIOOIlm2Os",
+      "source_modified_at": "2026-08-18T18:23:03.257Z",
+      "category": "build-package",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-03.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-03-001 — v1.1 — Business/Ongoing Pre-Payment Journey",
+      "source_drive_id": "1ExSmnFceoKdTjmJbrTVA4ERnL6VedUloKAA55bHH8Ak",
+      "source_modified_at": "2026-08-18T21:31:21.058Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-04.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-04-001 — v1.0 — Business/Ongoing Deep Understanding & Full Strategy",
+      "source_drive_id": "1nPtZMmFIFQG2nx0Xy9mNzictL2O1k1ewSLJGOYM8CGI",
+      "source_modified_at": "2026-08-18T18:23:20.230Z",
+      "category": "build-package",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-05.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-05-001 — v1.3 — One-Time Intake / Brief / Commercial Journey",
+      "source_drive_id": "1NaLENy2xWK8dR_RtPkbhtEZSBWxXfFb8TcouQe5SeDs",
+      "source_modified_at": "2026-08-19T05:26:25.381Z",
+      "category": "build-package",
+      "status": "current-v1.3"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-06.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-06-001 — v1.1 — Shared Studio: Brand Assets Room + Creative Room",
+      "source_drive_id": "1qAFC8nrVD6el2O1qMvzW_XNs_oGzToChwep5GtOf6nM",
+      "source_modified_at": "2026-08-18T19:22:20.093Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-07.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-07-001 — v1.0 — Campaign Readiness & User Review",
+      "source_drive_id": "1Ouh3Rr9au45COg7CJb7HUnvlsEVVBLjL7KqofZDCfUA",
+      "source_modified_at": "2026-08-18T18:23:47.546Z",
+      "category": "build-package",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-08.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-08-001 — v1.1 — Authorization / Meta Execution / Verified Readback",
+      "source_drive_id": "1-rj-BCgOn7pFrYyGsZOkAKW7wU5KMsgcFxCG6zTQBkQ",
+      "source_modified_at": "2026-08-18T19:22:34.735Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-09.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-09-001 — v1.0 — Managed Marketing / Media / Lead & Business Realization",
+      "source_drive_id": "1wS-Y_fjAV570ZNqqhabAEG3JIeckOfaBIfQJoc0U2xw",
+      "source_modified_at": "2026-08-18T18:24:05.940Z",
+      "category": "build-package",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-10.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-10-001 — v1.0 — Measurement / Learning / Next Decision",
+      "source_drive_id": "1FQ_fs1tqTXlRAkFu6Q5HEYwtFqJYkO20-Kb6SDHBC_w",
+      "source_modified_at": "2026-08-18T18:24:13.991Z",
+      "category": "build-package",
+      "status": "current-v1.0"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-11.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-11-001 — v1.2 — One-Time End Condition & Closure",
+      "source_drive_id": "1DjgI4Tc-xUFa0xf_Kpo5zYzTFP8eU9pWRxjb3CvdB1w",
+      "source_modified_at": "2026-08-19T05:26:08.219Z",
+      "category": "build-package",
+      "status": "current-v1.2"
+    },
+    {
+      "repository_path": "06-BUILD-PACKAGES/BP-12.md",
+      "source_title": "CAMPAINER-BUILD-PACKAGE-BP-12-001 — v1.1 — Pilot Control Plane / Observability / Privacy / Security / QA Overlay",
+      "source_drive_id": "1vGHiARBVwn57AQSXNRo4nVNx37Fa6CROACGD8_nSjZc",
+      "source_modified_at": "2026-08-18T19:21:38.132Z",
+      "category": "build-package",
+      "status": "current-v1.1"
+    },
+    {
+      "repository_path": "07-COMPANION-ARCHITECTURE/01-SHARED-EXPERIENCE-AND-ADVISOR-WORKSPACE.md",
+      "source_title": "CAMPAINER-SHARED-EXPERIENCE-AND-ADVISOR-WORKSPACE-ARCHITECTURE-001 — OWNER-APPROVED CANONICAL ADDITIVE CLARIFICATION",
+      "source_drive_id": "1VDtgvqECgPvY2jj2huUD5gAMgF7f6o0PPf7neWuGt6U",
+      "source_modified_at": "2026-08-23T09:03:22.225Z",
+      "category": "companion",
+      "status": "current"
+    },
+    {
+      "repository_path": "07-COMPANION-ARCHITECTURE/02-ER-014-AND-DIAGNOSIS-ARCHITECT-PROMOTION.md",
+      "source_title": "CAMPAINER-ER-014-AND-DIAGNOSIS-ARCHITECT-PROMOTION-DISPOSITION-001.md",
+      "source_drive_id": "1SHICPdcar2wyCxd_eJpeUh_FAXPLySNh",
+      "source_modified_at": "2026-08-22T19:56:27.813Z",
+      "category": "companion",
+      "status": "current-required"
+    },
+    {
+      "repository_path": "07-COMPANION-ARCHITECTURE/03-ADVISOR-R0-R8-CONTROLLED-PROPAGATION.md",
+      "source_title": "CAMPAINER-ADVISOR-R0-R8-CONTROLLED-PROPAGATION-FINALIZATION-001.md",
+      "source_drive_id": "1TyCwac1-5cnIS9Vw10gVzxDPcPyPXrqh",
+      "source_modified_at": "2026-08-22T19:56:38.581Z",
+      "category": "companion",
+      "status": "current-required"
+    },
+    {
+      "repository_path": "07-COMPANION-ARCHITECTURE/04-D44-IMPLEMENTATION-DESIGN-RECOMMENDATION.md",
+      "source_title": "GILUI-HAEMET-RETURN — D-44 IMPLEMENTATION DESIGN RECOMMENDATION — 001",
+      "source_drive_id": "1Cv2qZUaLY03Bcny7EtvV_7ar7ry6ThqwsQmh1OK9nr8",
+      "source_modified_at": "2026-08-23T07:59:33.159Z",
+      "category": "companion",
+      "status": "current-required"
+    }
+  ]
+}
